@@ -4,7 +4,7 @@ def main():
 
 
 def square(number):
-    squared = number + number
+    squared = number * number
     return squared
 
 
